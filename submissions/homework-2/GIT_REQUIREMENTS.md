@@ -23,9 +23,9 @@ GitHub username: JDBakerCS
 
 > A developer needs a way to review the changes they made because they might have made a mistake or changed something they dont want to save.
 
-### UN-GIT-03 — Control What Gets Saved
+### UN-GIT-03 — Control What Goes Into a Commit
 
-> A developer needs a way to choose which changes get saved together because some of their work could still be unfinished or unrelated to the other changes.
+> A developer needs to select which related changes will be included in next commit, so unfinished or unrelated work can remain outside that commit.
 
 ## 3. User Requirements
 
